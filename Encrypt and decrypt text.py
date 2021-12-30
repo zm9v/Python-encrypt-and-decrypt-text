@@ -17,6 +17,15 @@ except:
         os.system('pip3 install colorama')        
 
 print(f'''{Fore.RED}
+  ________  __  _____      __
+ |___  /  \/  |/ _ \ \    / /
+    / /| \  / | (_) \ \  / / 
+   / / | |\/| |\__, |\ \/ /  
+  / /__| |  | |  / /  \  /   
+ /_____|_|  |_| /_/    \/    
+''')
+
+print(f'''{Fore.RED}
 1 To encrypt
 2 To decrypt
 ''')
